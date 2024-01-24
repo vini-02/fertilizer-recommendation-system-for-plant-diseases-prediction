@@ -1,0 +1,1 @@
+# fertilizer-recommendation-system-for-plant-diseases-prediction
